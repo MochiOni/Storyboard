@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(90deg, #638889, #9dbc98, #ebd9b4, #ebd9b4, #f9efdb, #f9efdb);
+    font-size: 15pt;
+}
+table, th, td{
+        border: 3px solid black;
+        padding: 25px;
+        margin: 0 auto;
+        text-align: center;
+}
+table{
+        width: 100%;
+}
